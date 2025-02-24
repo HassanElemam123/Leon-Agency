@@ -10,3 +10,7 @@ First template
 
 
 ###this-project-is-with-html-and-css-only
+
+
+This is Note
+second note
