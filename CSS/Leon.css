@@ -104,7 +104,7 @@ html {
 .header .links .icon span {
     background-color: #333;
     margin-bottom: 5px;
-    height: 2px;
+    height: 3px;
     transition: var(--main-duration);
 }
 .header .links .icon span:first-child {
